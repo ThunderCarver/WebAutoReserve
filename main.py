@@ -4,8 +4,8 @@ import logs
 SERVICE_CATEGORY = "2c9c486e4f821a19014f82381feb0001"  # This is the category ID for "Sports Reservation". It usually doesn't change.
 
 # Fill in these data
-USER_ID = "20110240081"
-USER_PASSWORD = "FuDan*81"
+USER_ID = "xxxxxxxxx"
+USER_PASSWORD = "xxxxxxx"
 CAMPUS_NAME = "江湾校区"
 SPORT_NAME = "网球"
 SPORT_LOCATION = "江湾体育馆网球场"
