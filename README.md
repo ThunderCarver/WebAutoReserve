@@ -8,13 +8,12 @@ DISCLAIMER: Use at your own risk. The author is, to the extent permitted by law,
 - Replace strings in `main.py` with the appropriate values.
 - Some third-party python packages need to be installed in your environment.
 - Run the `main.py`.
-- 
 
 You may set the log level in `logs.py`
 
 ## Notice
 This script can only help you skip access website and make a reservation automatically by the value you specified in `main.py`.
-**It cannot** help you make a reservation in advance. 
+**It cannot help you make a reservation in advance**. 
 If you like achieve above action, I suggest you bind this script with other auto-task script which can run when a certain time comes.
 
 For this capacity, it will be updated soon,so stay tuned.
